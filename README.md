@@ -1,6 +1,6 @@
 # Classification Project with Iris Dataset
 
-This project involves the classification of the Iris dataset using various scikit-learn classifiers.
+This project involves the classification of the Iris dataset using SVM, logistic, and decision tree classifiers.
 
 ## Prerequisites
 
@@ -10,6 +10,3 @@ This project involves the classification of the Iris dataset using various sciki
 ## Usage
 
 1. Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/iris-classification-project.git
